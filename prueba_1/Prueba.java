@@ -1,4 +1,4 @@
-package prueba;
+package prueba_1;
 
 public class Prueba {
 
